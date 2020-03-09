@@ -12,9 +12,9 @@ and then run <br>
   *cd macos_search && pip3 install -r ./src/requirements.txt*
 
 ## Documentation
-Usage: search [OPTIONS]
+Usage: search [OPTIONS]<br>
 
-Options:
-  -s, --search TEXT  Enter Search paramter which is then used to search MacOS.
-  -e, --enter        Set to automatically press enter after search param.
-  --help             Show this message and exit.
+Options:<br>
+  -s, --search TEXT  Enter Search paramter which is then used to search MacOS.<br>
+  -e, --enter        Set to automatically press enter after search param.<br>
+  --help             Show this message and exit.<br>
